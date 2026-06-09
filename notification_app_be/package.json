@@ -1,0 +1,17 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "description": "Campus Notification System - Stage 1 Priority Inbox",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "logging-middleware": "file:../logging middleware"
+  }
+}

@@ -1,0 +1,66 @@
+
+==================================================
+PRIORITY INBOX (TOP 10)
+==================================================
+Total notifications processed : 47
+Heap size                   : 10
+Top N                       : 10
+==================================================
+
+1. [Placement]
+   Message   : CSX Corporation hiring
+   Timestamp : 2026-04-22 17:51:18
+
+---
+
+2. [Placement]
+   Message   : Advanced Micro Devices Inc. hiring
+   Timestamp : 2026-04-22 17:49:42
+
+---
+
+3. [Placement]
+   Message   : NVIDIA Corporation hiring
+   Timestamp : 2026-04-22 17:45:10
+
+---
+
+4. [Result]
+   Message   : Semester 6 results published
+   Timestamp : 2026-04-22 16:30:00
+
+---
+
+5. [Result]
+   Message   : Mid-term assessment scores available
+   Timestamp : 2026-04-22 15:12:44
+
+---
+
+6. [Event]
+   Message   : Tech fest registration open
+   Timestamp : 2026-04-22 14:00:00
+
+---
+
+7. [Event]
+   Message   : Guest lecture on distributed systems
+   Timestamp : 2026-04-22 12:30:00
+
+---
+
+8. [Event]
+   Message   : Sports day schedule announced
+   Timestamp : 2026-04-22 10:00:00
+
+---
+
+9. [Event]
+   Message   : Library extended hours this week
+   Timestamp : 2026-04-22 09:15:00
+
+---
+
+10. [Event]
+   Message   : Campus maintenance notice
+   Timestamp : 2026-04-22 08:00:00
