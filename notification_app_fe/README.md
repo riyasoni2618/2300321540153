@@ -56,7 +56,12 @@ npm run preview
 
 ## Screenshots
 
-See `screenshots/README.md` for desktop and mobile capture instructions.
+| View | Preview |
+| ---- | ------- |
+| Desktop | ![Desktop](screenshots/desktop-priority-inbox.png) |
+| Mobile | ![Mobile](screenshots/mobile-priority-inbox.png) |
+
+See [`screenshots/README.md`](screenshots/README.md) for capture instructions.
 
 ## Folder Structure
 

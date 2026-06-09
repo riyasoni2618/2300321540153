@@ -9,3 +9,14 @@ coverage/
 
 notification_app_fe/dist/
 notification_app_fe/node_modules/
+notification_app_be/node_modules/
+
+# Accidental files from mistyped shell commands
+/C
+/cd
+/node
+/npm
+/notification_app_be@*
+
+scripts/
+package-lock.json

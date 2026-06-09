@@ -1,66 +1,66 @@
-
+﻿
 ==================================================
 PRIORITY INBOX (TOP 10)
 ==================================================
-Total notifications processed : 47
+Total notifications processed : 3389
 Heap size                   : 10
 Top N                       : 10
 ==================================================
 
 1. [Placement]
-   Message   : CSX Corporation hiring
-   Timestamp : 2026-04-22 17:51:18
+   Message   : Microsoft Corporation hiring
+   Timestamp : 2026-06-09 07:31:11
 
 ---
 
 2. [Placement]
-   Message   : Advanced Micro Devices Inc. hiring
-   Timestamp : 2026-04-22 17:49:42
+   Message   : Apple Inc. hiring
+   Timestamp : 2026-06-09 07:20:08
 
 ---
 
 3. [Placement]
-   Message   : NVIDIA Corporation hiring
-   Timestamp : 2026-04-22 17:45:10
+   Message   : Apple Inc. hiring
+   Timestamp : 2026-06-09 07:19:36
 
 ---
 
-4. [Result]
-   Message   : Semester 6 results published
-   Timestamp : 2026-04-22 16:30:00
+4. [Placement]
+   Message   : Microsoft Corporation hiring
+   Timestamp : 2026-06-09 06:42:48
 
 ---
 
-5. [Result]
-   Message   : Mid-term assessment scores available
-   Timestamp : 2026-04-22 15:12:44
+5. [Placement]
+   Message   : Marvell Technology Inc. hiring
+   Timestamp : 2026-06-09 06:28:00
 
 ---
 
-6. [Event]
-   Message   : Tech fest registration open
-   Timestamp : 2026-04-22 14:00:00
+6. [Placement]
+   Message   : Berkshire Hathaway Inc. hiring
+   Timestamp : 2026-06-09 06:25:12
 
 ---
 
-7. [Event]
-   Message   : Guest lecture on distributed systems
-   Timestamp : 2026-04-22 12:30:00
+7. [Placement]
+   Message   : Berkshire Hathaway Inc. hiring
+   Timestamp : 2026-06-09 06:06:45
 
 ---
 
-8. [Event]
-   Message   : Sports day schedule announced
-   Timestamp : 2026-04-22 10:00:00
+8. [Placement]
+   Message   : Amgen Inc. hiring
+   Timestamp : 2026-06-09 06:05:11
 
 ---
 
-9. [Event]
-   Message   : Library extended hours this week
-   Timestamp : 2026-04-22 09:15:00
+9. [Placement]
+   Message   : Marriott International Inc. hiring
+   Timestamp : 2026-06-09 06:02:32
 
 ---
 
-10. [Event]
-   Message   : Campus maintenance notice
-   Timestamp : 2026-04-22 08:00:00
+10. [Placement]
+   Message   : Microsoft Corporation hiring
+   Timestamp : 2026-06-09 05:53:30
