@@ -1,0 +1,11 @@
+node_modules/
+.env
+.DS_Store
+*.log
+npm-debug.log*
+dist/
+build/
+coverage/
+
+notification_app_fe/dist/
+notification_app_fe/node_modules/
